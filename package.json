@@ -1,0 +1,25 @@
+{
+  "name": "app_with_twilio",
+  "version": "1.0.0",
+  "description": "It's application to send and receive message throught wassapt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raiandexter0607/app_with_twilio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raiandexter0607/app_with_twilio/issues"
+  },
+  "homepage": "https://github.com/raiandexter0607/app_with_twilio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "twilio": "^3.67.2",
+    "dotenv": "^10.0.0"
+  },
+  "type": "module"
+}
